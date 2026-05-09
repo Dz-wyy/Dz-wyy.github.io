@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Project</title>
-    <link>https://example.org/</link>
+    <link>https://dz-wyy.github.io/</link>
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dz-wyy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.org/posts/%E4%B8%80%E6%9C%88%E4%BA%8C%E5%8D%81%E4%B8%83%E6%97%A5/</link>
+      <link>https://dz-wyy.github.io/posts/%E4%B8%80%E6%9C%88%E4%BA%8C%E5%8D%81%E4%B8%83%E6%97%A5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/%E4%B8%80%E6%9C%88%E4%BA%8C%E5%8D%81%E4%B8%83%E6%97%A5/</guid>
+      <guid>https://dz-wyy.github.io/posts/%E4%B8%80%E6%9C%88%E4%BA%8C%E5%8D%81%E4%B8%83%E6%97%A5/</guid>
       <description>&lt;p&gt;所以作为动作的描写所带来的动态感、直观感要远远大于语言带来的感觉。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.org/posts/%E7%AD%89%E5%BE%85/</link>
+      <link>https://dz-wyy.github.io/posts/%E7%AD%89%E5%BE%85/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/%E7%AD%89%E5%BE%85/</guid>
+      <guid>https://dz-wyy.github.io/posts/%E7%AD%89%E5%BE%85/</guid>
       <description>&lt;h1 id=&#34;等待&#34;&gt;等待&lt;/h1&gt;
 &lt;p&gt;“我爱你，香香姐。”&lt;/p&gt;
 &lt;p&gt;面前的人一怔，仍背对着我。&lt;/p&gt;
@@ -79,9 +79,9 @@
     </item>
     <item>
       <title></title>
-      <link>https://example.org/posts/%E8%BF%94%E4%B9%A1/</link>
+      <link>https://dz-wyy.github.io/posts/%E8%BF%94%E4%B9%A1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/%E8%BF%94%E4%B9%A1/</guid>
+      <guid>https://dz-wyy.github.io/posts/%E8%BF%94%E4%B9%A1/</guid>
       <description>&lt;h1 id=&#34;返乡&#34;&gt;返乡&lt;/h1&gt;
 &lt;p&gt;注：本篇是作者考完试太过无聊而作，主题与思想相当老套，且是现实主义风格，所以在人物关系与叙事上可能会让人不适。如果雷这种叙事请立即退出，看完了骂我也行（）毕竟本来也是一篇习作。&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
