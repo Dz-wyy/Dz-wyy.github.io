@@ -1,12 +1,8 @@
 baseURL = "https://Dz-wyy.github.io/"
-languageCode = "zh-CN"
-title = "渡子书"
+title = "我的自留地"           # 改个你喜欢的博客名
 theme = "stack"
 
-# 设置每页显示多少篇文章
-paginate = 10  
-
-# 菜单（导航栏）
+# 菜单（默认显示在左上角 Logo 下方）
 [menu]
   [[menu.main]]
     identifier = "home"
@@ -19,26 +15,36 @@ paginate = 10
     url = "/posts/"
     weight = 2
   [[menu.main]]
+    identifier = "diary"
+    name = "日记"             # 自定义链接到你的日记分区
+    url = "/diary/"
+    weight = 3
+  [[menu.main]]
+    identifier = "novels"
+    name = "小说"             # 链接到小说分区
+    url = "/novels/"
+    weight = 4
+  [[menu.main]]
     identifier = "about"
     name = "关于"
     url = "/about/"
-    weight = 3
+    weight = 5
 
-# 主题参数
 [params]
-  # 侧边栏样式：有头像和简介
+  # 侧边栏设置
   [params.sidebar]
-    avatar = "/img/avatar.png"           # 自己放一张头像图到 static/img/ 下
-    subtitle = "写代码，也写生活"
-  
-  # 文章页面显示的元数据
+    avatar = "/img/avatar.jpg"         # 把自己的头像放到 static/img/ 里
+    subtitle = "写雨，写故事，写生活"   # 一句介绍自己的话
+
+  # 文章页设置
   [params.article]
     math = false
-    toc = true                            # 显示目录
-    readingTime = true                    # 阅读时间
+    toc = true                         # 显示文章目录
+    readingTime = true                 # 显示阅读时间
+    license = false
 
-  # 社交链接（可先注释掉不用）
-  # [[params.social]]
-  #   identifier = "github"
-  #   name = "GitHub"
-  #   url = "https://github.com/Dz-wyy"
+# 其他：如果你有社交链接，可以像这样加
+# [[params.social]]
+#   identifier = "github"
+#   name = "GitHub"
+#   url = "https://github.com/Dz-wyy"
