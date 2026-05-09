@@ -12,4 +12,4 @@ rem 用 Hugo 生成文章（会自动带 Front Matter）
 hugo new content/%section%/%title%.md
 
 rem 用默认程序打开生成的文件，就是你的 MilkUp 啦
-start "" "content\%section%\%title%.md"d
+start "" "content\%section%\%title%.md"
