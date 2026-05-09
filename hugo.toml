@@ -1,4 +1,44 @@
 baseURL = "https://Dz-wyy.github.io/"
-locale = 'en-us'
-title = '墙边'
-theme = 'stack'
+languageCode = "zh-CN"
+title = "渡子书"
+theme = "stack"
+
+# 设置每页显示多少篇文章
+paginate = 10  
+
+# 菜单（导航栏）
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "首页"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 3
+
+# 主题参数
+[params]
+  # 侧边栏样式：有头像和简介
+  [params.sidebar]
+    avatar = "/img/avatar.png"           # 自己放一张头像图到 static/img/ 下
+    subtitle = "写代码，也写生活"
+  
+  # 文章页面显示的元数据
+  [params.article]
+    math = false
+    toc = true                            # 显示目录
+    readingTime = true                    # 阅读时间
+
+  # 社交链接（可先注释掉不用）
+  # [[params.social]]
+  #   identifier = "github"
+  #   name = "GitHub"
+  #   url = "https://github.com/Dz-wyy"
