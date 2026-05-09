@@ -1,4 +1,4 @@
 baseURL = "https://Dz-wyy.github.io/"
 locale = 'en-us'
-title = 'My New Hugo Project'
-theme = 'PaperMod'
+title = '墙边'
+theme = 'stack'
