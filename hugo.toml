@@ -41,7 +41,7 @@ theme = "stack"
     math = false
     toc = true                         # 显示文章目录
     readingTime = true                 # 显示阅读时间
-    license = false
+
 
 # 其他：如果你有社交链接，可以像这样加
 # [[params.social]]

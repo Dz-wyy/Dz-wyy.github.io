@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Diaries on 渡子书</title>
+        <title>Diaries on 我的自留地</title>
         <link>https://Dz-wyy.github.io/diary/</link>
-        <description>Recent content in Diaries on 渡子书</description>
+        <description>Recent content in Diaries on 我的自留地</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-CN</language><atom:link href="https://Dz-wyy.github.io/diary/index.xml" rel="self" type="application/rss+xml" /></channel>
+        <language>en</language>
+        <lastBuildDate>Sat, 09 May 2026 19:42:51 +0800</lastBuildDate><atom:link href="https://Dz-wyy.github.io/diary/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>5.9</title>
+            <link>https://Dz-wyy.github.io/diary/5.9/</link>
+            <pubDate>Sat, 09 May 2026 19:42:51 +0800</pubDate>
+            <guid>https://Dz-wyy.github.io/diary/5.9/</guid>
+            <description>&lt;p&gt;到底有没有真的配好呢？我还是不知道。&lt;/p&gt;&#xA;&lt;p&gt;好想快点弄好啊……&lt;/p&gt;&#xA;</description>
+        </item></channel>
 </rss>
