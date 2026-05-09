@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://Dz-wyy.github.io/posts/5.9/</loc>
+    <lastmod>2026-05-09T20:00:44+08:00</lastmod>
+  </url><url>
+    <loc>https://Dz-wyy.github.io/posts/</loc>
+    <lastmod>2026-05-09T20:00:44+08:00</lastmod>
+  </url><url>
+    <loc>https://Dz-wyy.github.io/</loc>
+    <lastmod>2026-05-09T20:00:44+08:00</lastmod>
+  </url><url>
     <loc>https://Dz-wyy.github.io/posts/%E4%B8%80%E6%9C%88%E4%BA%8C%E5%8D%81%E4%B8%83%E6%97%A5/</loc>
   </url><url>
     <loc>https://Dz-wyy.github.io/posts/%E7%AD%89%E5%BE%85/</loc>
@@ -12,10 +21,6 @@
   </url><url>
     <loc>https://Dz-wyy.github.io/diary/</loc>
   </url><url>
-    <loc>https://Dz-wyy.github.io/posts/</loc>
-  </url><url>
     <loc>https://Dz-wyy.github.io/tags/</loc>
-  </url><url>
-    <loc>https://Dz-wyy.github.io/</loc>
   </url>
 </urlset>
