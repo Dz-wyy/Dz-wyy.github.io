@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Dz-wyy.github.io/novels/</loc>
-    <lastmod>2026-05-09T23:24:18+08:00</lastmod>
-  </url><url>
     <loc>https://Dz-wyy.github.io/</loc>
-    <lastmod>2026-05-09T23:24:18+08:00</lastmod>
+    <lastmod>2026-05-12T15:35:41+08:00</lastmod>
+  </url><url>
+    <loc>https://Dz-wyy.github.io/new-post/</loc>
+    <lastmod>2026-05-12T15:35:41+08:00</lastmod>
   </url><url>
     <loc>https://Dz-wyy.github.io/novels/5.9/</loc>
+    <lastmod>2026-05-09T23:24:18+08:00</lastmod>
+  </url><url>
+    <loc>https://Dz-wyy.github.io/novels/</loc>
     <lastmod>2026-05-09T23:24:18+08:00</lastmod>
   </url><url>
     <loc>https://Dz-wyy.github.io/posts/5.9/</loc>
@@ -34,6 +37,8 @@
   </url><url>
     <loc>https://Dz-wyy.github.io/posts/%E9%9B%A8%E9%83%BD%E5%85%B6%E4%B8%80/</loc>
     <lastmod>2026-05-09T17:24:42+08:00</lastmod>
+  </url><url>
+    <loc>https://Dz-wyy.github.io/about/</loc>
   </url><url>
     <loc>https://Dz-wyy.github.io/categories/</loc>
   </url><url>
